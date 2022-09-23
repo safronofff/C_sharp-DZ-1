@@ -1,0 +1,15 @@
+C:\Users\Аня\Desktop\гиг брейнс\Програмирование\DZ-C#\Seminar-1\09-dz\bin\Debug\net6.0\09-dz.exe
+C:\Users\Аня\Desktop\гиг брейнс\Програмирование\DZ-C#\Seminar-1\09-dz\bin\Debug\net6.0\09-dz.deps.json
+C:\Users\Аня\Desktop\гиг брейнс\Програмирование\DZ-C#\Seminar-1\09-dz\bin\Debug\net6.0\09-dz.runtimeconfig.json
+C:\Users\Аня\Desktop\гиг брейнс\Програмирование\DZ-C#\Seminar-1\09-dz\bin\Debug\net6.0\09-dz.dll
+C:\Users\Аня\Desktop\гиг брейнс\Програмирование\DZ-C#\Seminar-1\09-dz\bin\Debug\net6.0\09-dz.pdb
+C:\Users\Аня\Desktop\гиг брейнс\Програмирование\DZ-C#\Seminar-1\09-dz\obj\Debug\net6.0\09-dz.csproj.AssemblyReference.cache
+C:\Users\Аня\Desktop\гиг брейнс\Програмирование\DZ-C#\Seminar-1\09-dz\obj\Debug\net6.0\09-dz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Аня\Desktop\гиг брейнс\Програмирование\DZ-C#\Seminar-1\09-dz\obj\Debug\net6.0\09-dz.AssemblyInfoInputs.cache
+C:\Users\Аня\Desktop\гиг брейнс\Програмирование\DZ-C#\Seminar-1\09-dz\obj\Debug\net6.0\09-dz.AssemblyInfo.cs
+C:\Users\Аня\Desktop\гиг брейнс\Програмирование\DZ-C#\Seminar-1\09-dz\obj\Debug\net6.0\09-dz.csproj.CoreCompileInputs.cache
+C:\Users\Аня\Desktop\гиг брейнс\Програмирование\DZ-C#\Seminar-1\09-dz\obj\Debug\net6.0\09-dz.dll
+C:\Users\Аня\Desktop\гиг брейнс\Програмирование\DZ-C#\Seminar-1\09-dz\obj\Debug\net6.0\refint\09-dz.dll
+C:\Users\Аня\Desktop\гиг брейнс\Програмирование\DZ-C#\Seminar-1\09-dz\obj\Debug\net6.0\09-dz.pdb
+C:\Users\Аня\Desktop\гиг брейнс\Програмирование\DZ-C#\Seminar-1\09-dz\obj\Debug\net6.0\09-dz.genruntimeconfig.cache
+C:\Users\Аня\Desktop\гиг брейнс\Програмирование\DZ-C#\Seminar-1\09-dz\obj\Debug\net6.0\ref\09-dz.dll
